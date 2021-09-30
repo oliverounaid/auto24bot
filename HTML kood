@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body { font: normal 24px Arial; text-align: center; }
+		</style>
+	</head>
+	 <a href="#"><img src="https://img.auto24.ee/images/main_logo.gif" alt="A cute orange cat lying on its back."></a>
+	<body>
+		<h1>AUTO24 bot</h1>
+		<p><em>1. Select car model/models.
+		2. Leave an email for notifications/updates.</em></p>
+		<p>Type and watch the output on the right instantly update with your changes.</p>
+		<label for="1. Seeria"><input id="1. Seeria" type="checkbox" name="personality" value="1. Seeria"> 1. Seeria</label>
+    <label for="2. seeria"><input id="2. seeria" type="checkbox" name="personality" value="2. Seeria"> 2. Seeria</label>
+    <label for="3. seeria"><input id="3. seeria" type="checkbox" name="personality" value="3. Seeria"> 2. Seeria</label>
+    <label for="321"><input id="321" type="checkbox" name="personality" value="321"> 321</label>
+    <label for="4. seeria"><input id="4. seeria" type="checkbox" name="personality" value="4. Seeria"> 4. Seeria</label>
+    <label for="5. seeria"><input id="5. seeria" type="checkbox" name="personality" value="5. Seeria"> 5. Seeria</label>
+    <label for="6. seeria"><input id="6. seeria" type="checkbox" name="personality" value="6. Seeria"> 6. Seeria</label>
+    <label for="7. seeria"><input id="7. seeria" type="checkbox" name="personality" value="7. Seeria"> 7. Seeria</label>
+    <label for="8. seeria"><input id="8. seeria" type="checkbox" name="personality" value="8. Seeria"> 8. Seeria</label>
+    <label for="i3"><input id="i3" type="checkbox" name="i3" value="i3"> i3</label>
+    <label for="M2"><input id="M2" type="checkbox" name="M2" value="M2"> M2</label><br>
+    <label for="M3"><input id="M3" type="checkbox" name="M3" value="M3"> M3</label><br>
+    <label for="M4"><input id="M4" type="checkbox" name="M4" value="M4"> M4</label><br>
+    <label for="M5"><input id="M5" type="checkbox" name="M5" value="M5"> M5</label><br>
+    <label for="M6"><input id="M6" type="checkbox" name="M6" value="M6"> M6</label><br>
+    <label for="X1"><input id="X1" type="checkbox" name="X1" value="X1"> X1</label><br>
+    <label for="X2"><input id="X2" type="checkbox" name="X2" value="X2"> X2</label><br>
+ 	<label for="X3"><input id="X3" type="checkbox" name="X3" value="X3"> X3</label><br>
+ 	<label for="X3 M"><input id="X3 M" type="checkbox" name="X3 M" value="X3 M"> X3 M</label><br>
+ 	<label for="X4"><input id="X4" type="checkbox" name="X4" value="X4"> X4</label><br>
+ 	 	<label for="X4 M"><input id="X4 M" type="checkbox" name="X4 M" value="X4 M"> X4 M</label><br>
+ 	<label for="X5"><input id="X5" type="checkbox" name="X5" value="X5"> X5</label><br>
+ 	 	<label for="X5 M"><input id="X5 M" type="checkbox" name="X5 M" value="X5 M"> X5 M</label><br>
+ 	<label for="X6"><input id="X6" type="checkbox" name="X6" value="X6"> X6</label><br>
+ 	 	<label for="X6 M"><input id="X6 M" type="checkbox" name="X6 M" value="X6 M"> X6 M</label><br>
+ 	<label for="X7"><input id="X7" type="checkbox" name="X7" value="X7"> X7</label><br>
+ 	<label for="Z3"><input id="Z3" type="checkbox" name="Z3" value="Z3"> Z3</label><br>
+ 	<label for="Z4"><input id="Z4" type="checkbox" name="Z4" value="Z4"> Z4</label><br>
+ 	<label for="Z4 M"><input id="Z4 M" type="checkbox" name="Z4 M" value="Z4 M"> Z4 M</label><br>
+<input type="text" placeholder="text@gmail.com" required>
+    <button type="submit">Submit</button>
+	</body>
+</html>
