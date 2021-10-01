@@ -44,11 +44,11 @@ FIGMA link: https://itmajakas.slack.com/archives/C02GVQBQESC/p1633068953000300
 
 **Kätlin**
 
-1.)
+1.)Õppisin otsima. Sain nüüd rohkem aru kuidas see projektipäev välja näeb ja mida see endast kujutab. 
 
-2.)
+2.)Tegin koos tiimikaaslastega Figmas prototüüpi. Tegin seda esimest korda ja meil oli selle juures väga lõbus.
 
-3.)
+3.)Teadmiseid on veel väga vähe kuid üritasin kaasa mõelda ja koodi tegemisel sain kuulata, vaadata ning enda jaoks märkmeid teha. Kahjuks olin koodi aitamise juures abitu, seega minu ülesanne Figmas sobis väga hästi. :)
 
 
 **Kris**
