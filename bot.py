@@ -5,8 +5,8 @@ import smtplib
 
 amount = ()
 
-
-# URL = "https://www.auto24.ee/kasutatud/nimekiri.php?bn=2&a=100&b=4&ae=1&af=50&ssid=28502144&ak=0"
+# testfile = open("/home/timtim/ta20/projects/TAHVLIBOT/test.txt", "a")
+# testfile.write(str(sum))
 
 URL = "https://www.auto24.ee/kasutatud/nimekiri.php?bn=2&a=100&b=4&ae=8&af=50&ssid=28509090"
 page = requests.get(URL)
@@ -20,15 +20,15 @@ amount_join = "".join(filter(str.isdigit, amount))
 inted = int(amount_join)
 
 f = open('/home/timtim/ta20/projects/TAHVLIBOT/number.txt')
-
-
-if inted != f:
-    w = open("/home/timtim/ta20/projects/TAHVLIBOT/number.txt", "w")
-    w.write(str(inted))
-    w.close()
+sendemails = open(str("/home/timtim/ta20/projects/TAHVLIBOT/emails.txt"))
+sum = inted - int(f.read())
+w = open("/home/timtim/ta20/projects/TAHVLIBOT/number.txt", "w")
+w.write(str(inted))
+w.close()
+if sum > 1:
     fromaddr = 'botty.bottingson.bot@gmail.com'
-    toaddrs  = 'botty.bottingson.bot@gmail.com'
-    msg = str(inted)
+    toaddrs = sendemails.readlines()
+    msg = "Autode suhe vorreldes eelmise korraga on " + str(sum)
     username = 'botty.bottingson.bot@gmail.com'
     password = 'bottybot1'
     server = smtplib.SMTP('smtp.gmail.com:587')
@@ -37,11 +37,8 @@ if inted != f:
     server.sendmail(fromaddr, toaddrs, msg)
     server.quit()
     print("email sent")
-# elif f == inted:
-#     print("no changes")
+else:
+    print("no changes")
     
 print("inted", inted)
 print(f.read())
-
-# if inted != inted:
-#     print(inted + " has changed")
