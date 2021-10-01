@@ -119,9 +119,22 @@
       <label for="Z4 M"><input id="Z4 M" type="checkbox" value="Z4 M"> Z4 M</label>
     </li>
   </ul>
-  <input type="text" placeholder="example@email.com" required>
-    <button type="submit">Submit</button>
+
+  <form action="index.php" method="post">
+      <input type="email" placeholder="example@email.com" name="email"pattern=".+@gmail\.com" required>
+        <button type="submit">Submit</button>
+  </form>
   </main>
+
+    <?php
+
+    $email = $_POST["email"];
+    echo "$email";
+    $files = fopen("emails.txt", "a");
+    fwrite($files, "$email \n");
+    fclose($files)
+
+    ?>
 
   <footer>
     <p>
