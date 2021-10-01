@@ -1,13 +1,13 @@
-# TAHVLIBOT
+# Auto24 BOT
 
 
 ## Probleem
-
+Auto24.ee uute sissekannete teavitus saatmine emailile.
 
 
 ## Lahenduskäik
 
-Võtsime Auto24 kodulehelt andmed, loeme ning võrdleme andmeid. Kui on muudatusi, siis bot teavitab Slacki kaudu. Figmas sai tehtud kujundus.
+Võtsime Auto24 kodulehelt andmed, lugesime ning võrdlesime andmeid. Muudatuste ilmnemisel saadab bot teavituse emailile. Figmas sai tehtud kujundus.
 
 Tiimi Liikmed: 
 
@@ -19,7 +19,7 @@ Oliver
 Silja
 Johanna
 
-FIGMA link: https://itmajakas.slack.com/archives/C02GVQBQESC/p1633068953000300
+FIGMA link: https://www.figma.com/community/file/1025669328860434605/Auto24-mobile-version
 
 * Üks pehme oskus, mida õppisin ja endas arendasin
 * Üks tehniline oskus, mida õppisin ja endas arendasin
@@ -27,16 +27,15 @@ FIGMA link: https://itmajakas.slack.com/archives/C02GVQBQESC/p1633068953000300
 
 **Timo:**
 
-1.)
+1.)Tiimi suunamist ja teatud terminite välja selgitamist
 
-2.)
+2.)Õppisin web scrapingut ja lahedaid linuxi funktsioone
 
-3.)
-
+3.)Ei, olin rahul enadle seatud ülesannetega
 
 **Joonas**
 
-1.)See kord, mina ei arendanud midagi, kuna eelnevatel kordadel õppisin rohkem rääkima ja küsima ja nüüd kasutasin neid oskuseid ära. 
+1.)See kord, mina ei arendanud midagi, kuna eelnevatel kordadel õppisin rohkem rääkima ja küsima ja nüüd kasutasin neid oskuseid ära.
 
 2.)Õppisin Pythonit
 
@@ -50,30 +49,29 @@ FIGMA link: https://itmajakas.slack.com/archives/C02GVQBQESC/p1633068953000300
 
 3.)Teadmiseid on veel väga vähe kuid üritasin kaasa mõelda ja koodi tegemisel sain kuulata, vaadata ning enda jaoks märkmeid teha. Kahjuks olin koodi aitamise juures abitu, seega minu ülesanne Figmas sobis väga hästi. :)
 
-
 **Kris**
 
-1.)
+1.)Õppisin tiimiga rohkem suhtlema ja selgitama teatud termineid.
 
-2.)
+2.)Pythonis maili saatmist, web scrapingut ja lisaks sai meelde tuletada pythoni termineid.
 
-3.)
+3.)Ülesanne sobis.
 
 **Oliver**
 
-1.)
+1.)Teamiga suhtlemine.
 
-2.)
+2.)HTML, Googeldamine
 
-3.)
+3.)Oleks tahtnud rohkem teada saada backendi ja frontendi ühendamise kohta.
 
 **Silja**
 
-1.)
+1.) Suhtlemine tiimiga
 
-2.)
+2.) Figma katsetamine google abil.
 
-3.)
+3.) Ei oleks, kuna olen alles koolitee alguses ning tegin seda mida oskasin või googeldasin. 
 
 **Johanna**
 
