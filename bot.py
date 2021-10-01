@@ -25,7 +25,8 @@ sum = inted - int(f.read())
 w = open("/home/timtim/ta20/projects/TAHVLIBOT/number.txt", "w")
 w.write(str(inted))
 w.close()
-if sum > 1:
+
+if sum >= 1:
     fromaddr = 'botty.bottingson.bot@gmail.com'
     toaddrs = sendemails.readlines()
     msg = "Autode suhe vorreldes eelmise korraga on " + str(sum)
@@ -36,9 +37,10 @@ if sum > 1:
     server.login(username,password)
     server.sendmail(fromaddr, toaddrs, msg)
     server.quit()
-    print("email sent")
+    print("emails sent")
 else:
     print("no changes")
     
-print("inted", inted)
-print(f.read())
+    
+# print("inted", inted)
+# print(f.read())
