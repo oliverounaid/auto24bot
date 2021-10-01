@@ -36,19 +36,19 @@ FIGMA link: https://itmajakas.slack.com/archives/C02GVQBQESC/p1633068953000300
 
 **Joonas**
 
-1.)
+1.)See kord, mina ei arendanud midagi, kuna eelnevatel kordadel õppisin rohkem rääkima ja küsima ja nüüd kasutasin neid oskuseid ära. 
 
-2.)
+2.)Õppisin Pythonit
 
-3.)
+3.)Ei
 
 **Kätlin**
 
-1.)
+1.)Õppisin otsima. Sain nüüd rohkem aru kuidas see projektipäev välja näeb ja mida see endast kujutab. 
 
-2.)
+2.)Tegin koos tiimikaaslastega Figmas prototüüpi. Tegin seda esimest korda ja meil oli selle juures väga lõbus.
 
-3.)
+3.)Teadmiseid on veel väga vähe kuid üritasin kaasa mõelda ja koodi tegemisel sain kuulata, vaadata ning enda jaoks märkmeid teha. Kahjuks olin koodi aitamise juures abitu, seega minu ülesanne Figmas sobis väga hästi. :)
 
 
 **Kris**
@@ -61,11 +61,11 @@ FIGMA link: https://itmajakas.slack.com/archives/C02GVQBQESC/p1633068953000300
 
 **Oliver**
 
-1.)Teamiga suhtlemine.
+1.)
 
-2.)HTML, Googeldamine
+2.)
 
-3.)Oleks tahtnud rohkem teada saada backendi ja frontendi ühendamise kohta.
+3.)
 
 **Silja**
 
