@@ -27,11 +27,11 @@ w.write(str(inted))
 w.close()
 
 if sum >= 1:
-    fromaddr = 'botty.bottingson.bot@gmail.com'
+    fromaddr = ''
     toaddrs = sendemails.readlines()
     msg = "Autode suhe vorreldes eelmise korraga on " + str(sum)
-    username = 'botty.bottingson.bot@gmail.com'
-    password = 'bottybot1'
+    username = ''
+    password = ''
     server = smtplib.SMTP('smtp.gmail.com:587')
     server.starttls()
     server.login(username,password)
